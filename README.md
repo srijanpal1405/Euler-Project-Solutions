@@ -1,2 +1,3 @@
 # Euler-Project-Solutions
-lim n -> inf (n +1/n) ^n
+
+A man is on a mission, man has no answers.
